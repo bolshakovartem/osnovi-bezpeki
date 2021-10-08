@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\artem\source\repos\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\artem\source\repos\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
