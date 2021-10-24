@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\artem\source\repos\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\artem\source\repos\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
