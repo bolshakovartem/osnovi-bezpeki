@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab3
 {
-    class Program
+    public class Program
     {
         static byte[] ComputeHashMd5(byte[] dataForHash)
         {
