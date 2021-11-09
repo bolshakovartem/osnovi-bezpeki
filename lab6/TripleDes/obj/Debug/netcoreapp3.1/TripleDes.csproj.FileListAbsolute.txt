@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.exe
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.deps.json
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.runtimeconfig.json
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.runtimeconfig.dev.json
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.dll
+C:\Users\artem\source\repos\lab6\TripleDes\bin\Debug\netcoreapp3.1\TripleDes.pdb
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.AssemblyInfo.cs
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.dll
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.pdb
+C:\Users\artem\source\repos\lab6\TripleDes\obj\Debug\netcoreapp3.1\TripleDes.genruntimeconfig.cache

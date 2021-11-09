@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.exe
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.deps.json
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.runtimeconfig.json
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.runtimeconfig.dev.json
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.dll
+C:\Users\artem\source\repos\lab6\DES encryption\bin\Debug\netcoreapp3.1\DES encryption.pdb
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.AssemblyInfo.cs
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.dll
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.pdb
+C:\Users\artem\source\repos\lab6\DES encryption\obj\Debug\netcoreapp3.1\DES encryption.genruntimeconfig.cache
